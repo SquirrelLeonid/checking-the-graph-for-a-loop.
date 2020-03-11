@@ -1,0 +1,7 @@
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph\bin\Release\Acyclic graph.exe.config
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph\bin\Release\Acyclic graph.exe
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph\bin\Release\Acyclic graph.pdb
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph\obj\Release\Acyclic graph.csproj.CoreCompileInputs.cache
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph\obj\Release\Acyclic graph.exe
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph\obj\Release\Acyclic graph.pdb
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph\obj\Release\Acyclic graph.csprojAssemblyReference.cache

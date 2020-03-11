@@ -1,0 +1,20 @@
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph.Tests\bin\Debug\Acyclic graph.Tests.dll
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph.Tests\bin\Debug\Acyclic graph.Tests.pdb
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph.Tests\obj\Debug\Acyclic graph.Tests.csprojAssemblyReference.cache
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph.Tests\obj\Debug\Acyclic graph.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph.Tests\obj\Debug\Acyclic graph.Tests.csproj.CopyComplete
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph.Tests\obj\Debug\Acyclic graph.Tests.dll
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph.Tests\obj\Debug\Acyclic graph.Tests.pdb
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph.Tests\bin\Debug\Acyclic graph.exe
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph.Tests\bin\Debug\Acyclic graph.pdb
+C:\Users\Марсель\source\repos\Acyclic graph\Acyclic graph.Tests\bin\Debug\Acyclic graph.exe.config
